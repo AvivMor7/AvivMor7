@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aviv Mor</h1>
 <h3 align="center">A passionate Data analyst and developer from Israel</h3>
-<img src="[https://giphy.com/embed/bGgsc5mWoryfgKBx1u](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h3ZXN4YzBiYTJqNDgyMzVtZXpncGo1MW5vZGwyZGY2ODI3b2V1bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp)" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avivmor7&label=Profile%20views&color=0e75b6&style=flat" alt="avivmor7" /> </p>
 
 - 🔭 I’m currently working on [InvestiMate](https://github.com/AvivMor7/InvestiMate)
