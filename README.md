@@ -3,7 +3,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" height="230" alt="coding" align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avivmor7&label=Profile%20views&color=0e75b6&style=flat" alt="avivmor7" /> </p>
 
-- 🔭 I’m currently working on [InvestiMate](https://github.com/AvivMor7/InvestiMate)
+- 🔭 I’m currently working on [Smart Connect](https://github.com/AvivMor7/Smart_Connect)
 
 - 📫 How to reach me **avivmor7301@gmail.com**
 
